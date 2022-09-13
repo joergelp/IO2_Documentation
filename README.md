@@ -13,4 +13,4 @@ This second intellectual product therefore proposes the development of the docum
 As leaders, the [Karlstad Uni](http://www.kau.se/) will be in charge of the pedagogical design of the MOOC, as well as the style and format guides that the materials to be developed must follow. Likewise, they will control the unanimous development of the tasks assigned to each partner.
 
 The MOOC will have three differentiated blocks, each of which will be developed by one of the partners, based on their knowledge and participation in the project.
-The language in which the materials will be developed will be English, so all partners will collaborate in the translation tasks into their native language: Swedish, Turkish, Portuguese and Spanish.
+The language in which the materials will be developed will be English, so all partners will collaborate in the translation tasks into their native language: Swedish, Turkish, Portuguese and [Spanish](README_es.md).
