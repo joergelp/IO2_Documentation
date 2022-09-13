@@ -6,13 +6,19 @@ Por lo tanto, será liderada por [Karlstad](http://www.kau.se/), dada su compete
 
 Este bloque tendr&aacute; las siguientes secciones:
 
-- Caracter&iacute;sticas de JuezLTI.
-- Acceso a JuezLTI desde el LMS de la instituci&oacute;n (Moodle, Sakai, Canvas).
-- Ejercicios predefinidos e itinerarios formativos.
-- Importaci&oacute;n y exportaci&oacute;n de ejercicios.
-- Revisi&oacute;n de la evoluci&oacute;n del estudiante.
-- Definici&oacute;n de nuevos problemas e itinerarios.
-- Metodolog&iacute;a con JuezLTI.
+- Introducci&oacute;n a JuezLTI
+- Obteniendo las credenciales para JuezLTI
+- Usando JuezLTI en Moodle / Canvas / Sakai
+- Vista del docente
+  - Creaci&oacute;n de ejercicios
+    - Ejercicios de programación
+    - Ejercicios de SQL
+    - Ejercicios de XML
+  - Edici&oacute;n de ejercicios
+  - Importaci&oacute;n de ejercicios
+- Vista del estudiante
+- Revisión de los resultados
+- Exportar e importar el contexto
 
 ## Elecci&oacute;n de idioma
 - [Inglés](README.md)

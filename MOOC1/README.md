@@ -6,13 +6,18 @@ Therefore, it will be led by [Karlstad](http://www.kau.se/), given his competenc
 
 Block one will consist of the following sections:
 
-- JuezLTI Features
-- Access to JuezLTI from my LMS (Moodle, Sakai, Canvas)
-- Pre-defined exercises and training itineraries
-- Import and export of exercises
-- Student monitoring
-- Definition of new problems and itineraries
-- Didactic methodologies with JuezLTI
+- Introduction to JuezLTI
+- Getting credentials for JuezLTI
+- Using JuezLTI in Moodle / Canvas / Sakai
+- Teacher View
+  - Creating an exercise
+  - Importing exercises
+- Student View
+  - Programming exercises
+  - SQL exercises
+  - XML exercises
+- Reviewing results
+- Backup and restore
 
 ## Choice of language
 - [English](README.md)
