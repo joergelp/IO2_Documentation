@@ -15,3 +15,10 @@ Como lider, la [Universidad de Karlstad](http://www.kau.se/) ser&aacute; la enca
 El MOOC tendrá tres bloques diferenciados, cada uno de los cuales ser&aacute; desarrollado por uno de los socios, basado en sus conocimientos y participación en el proyecto.
 
 Los materiales ser&aacute;n desarrollados en ingl&eacute;s, por lo que todos los socios colaborar&aacute;n en las tareas de traducci&oacute;n a su lengua materna: Sueco, Turco, Portugues y Espa&ntilde;ol.
+
+## Elecci&oacute;n de idioma
+- [Inglés](README.md)
+- [Español](README_es.md)
+- [Portugues](README_pt.md)
+- [Sueco](README_sv.md)
+- [Turco](README_tr.md)

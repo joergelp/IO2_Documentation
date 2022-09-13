@@ -23,3 +23,10 @@ This manual will be developed mainly by [INESC TEC](http://www.inesctec.pt/), an
 - Introduction to JuezLTI programming
 - JuezLTI client development
 - Development of exercises with JuezLTI
+
+## Choice of language
+- [English](README.md)
+- [Spanish](README_es.md)
+- [Portuguese](README_pt.md)
+- [Swedish](README_sv.md)
+- [Turkish](README_tr.md)

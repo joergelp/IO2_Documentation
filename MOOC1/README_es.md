@@ -13,3 +13,10 @@ Este bloque tendr&aacute; las siguientes secciones:
 - Revisi&oacute;n de la evoluci&oacute;n del estudiante.
 - Definici&oacute;n de nuevos problemas e itinerarios.
 - Metodolog&iacute;a con JuezLTI.
+
+## Elecci&oacute;n de idioma
+- [Inglés](README.md)
+- [Español](README_es.md)
+- [Portugues](README_pt.md)
+- [Sueco](README_sv.md)
+- [Turco](README_tr.md)

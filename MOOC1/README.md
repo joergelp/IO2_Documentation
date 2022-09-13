@@ -13,3 +13,10 @@ Block one will consist of the following sections:
 - Student monitoring
 - Definition of new problems and itineraries
 - Didactic methodologies with JuezLTI
+
+## Choice of language
+- [English](README.md)
+- [Spanish](README_es.md)
+- [Portuguese](README_pt.md)
+- [Swedish](README_sv.md)
+- [Turkish](README_tr.md)
