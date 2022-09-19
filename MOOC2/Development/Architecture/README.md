@@ -7,7 +7,7 @@ To attain this goal JuezLTI relies on a combination of features:
 3.a generic feedback system to help students to overcome their difficulties;
 4. a centralized repository of exercises from where they can be exported and imported.
 
-![JuezLTI Components](JuezLTI Components.svg)
+![JuezLTI Components](JuezLTI_Components.svg)
 
 The architecture of JuezLTI is depicted by the UML component diagram in figure above. 
 At the center of this architecture is CodeTest, the main component based on TSUGI, the framework that provides LTI support, 
