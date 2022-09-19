@@ -1,3 +1,11 @@
+<p align="right">
+  <a href="README_en.md">[EN]</a>
+  <a href="README_es.md">[ES]</a>
+  <a href="README_pt.md">[PT]</a>
+  <a href="README_tr.md">[TR]</a>
+  <a href="README_sv.md">[SV]</a>
+</p>
+
 ## Arquitetura do JuezLTI
 
 O objetivo do JuezLTI é permitir a avaliação de exercícios numa grande variedade de linguagens usadas em computação, dentro do LMS.
@@ -28,9 +36,3 @@ Está disponível no GitHub em duas formas diferentes: produção e desenvolvime
 O primeiro permite a implantação de todo o sistema (vários componentes *docker*) em um servidor de produção aberto à Internet.
 Com este último, qualquer pessoa pode construir a plataforma localmente e contribuir para o desenvolvimento do JuezLTI.
 
-## Choice of language
-- [English](README.md)
-- [Spanish](README_es.md)
-- [Portuguese](README_pt.md)
-- [Swedish](README_sv.md)
-- [Turkish](README_tr.md)
