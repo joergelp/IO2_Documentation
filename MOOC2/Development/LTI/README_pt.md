@@ -1,3 +1,11 @@
+<p align="right">
+  <a href="README.md">[EN]</a>
+  <a href="README_es.md">[ES]</a>
+  <a href="README_pt.md">[PT]</a>
+  <a href="README_tr.md">[TR]</a>
+  <a href="README_sv.md">[SV]</a>
+</p>
+
 # A especificação LTI
 
 
@@ -48,10 +56,3 @@ antes de serem enviados pela primeira vez;
 *links* diretos podem ser usados para incorporar em tabelas de classificação de conteúdo LMS 
 geradas dinamicamente pela ferramenta.
 
-
-## Choice of language
-- [English](README.md)
-- [Spanish](README_es.md)
-- [Portuguese](README_pt.md)
-- [Swedish](README_sv.md)
-- [Turkish](README_tr.md)
