@@ -6,7 +6,7 @@ Therefore, it will be led by [Karlstad](http://www.kau.se/), given his competenc
 
 Block one will consist of the following sections:
 
-- Introduction to JuezLTI
+- [Introduction to JuezLTI](en/introJuezLTI.md)
 - Getting credentials for JuezLTI
 - Using JuezLTI in Moodle / Canvas / Sakai
 - Teacher View

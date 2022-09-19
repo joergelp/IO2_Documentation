@@ -6,7 +6,7 @@ Por lo tanto, será liderada por [Karlstad](http://www.kau.se/), dada su compete
 
 Este bloque tendr&aacute; las siguientes secciones:
 
-- Introducci&oacute;n a JuezLTI
+- [Introducci&oacute;n a JuezLTI](es/introJuezLTI.md)
 - Obteniendo las credenciales para JuezLTI
 - Usando JuezLTI en Moodle / Canvas / Sakai
 - Vista del docente
