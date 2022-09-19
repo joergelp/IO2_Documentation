@@ -1,6 +1,6 @@
 ## Arquitetura do JuezLTI
 
-O objetivo do JuezLTI é permitir aavaliação de exercícios numa grande variedade de linguagens usadas em computação, dentro do LMS.
+O objetivo do JuezLTI é permitir a avaliação de exercícios numa grande variedade de linguagens usadas em computação, dentro do LMS.
 Para atingir este objetivo, o JuezLTI combina as seguintes caraterísticas: 
 1. a interoperabilidade com o LMS fornecida pelo *framework* TSUGI;
 2. um design modular que permite a incorporação de avaliadores para novos domínios;
