@@ -2,9 +2,9 @@
 
 The goal of JuezLTI is to provide assessment of exercises in a wide range of languages used in computing within the LMS.
 To attain this goal JuezLTI relies on a combination of features: 
-1.the interoperability with the LMS provided by the TSUGI framework;
-2.a modular design allowing the incorporation of evaluators for new domains; 
-3.a generic feedback system to help students to overcome their difficulties;
+1. the interoperability with the LMS provided by the TSUGI framework;
+2. a modular design allowing the incorporation of evaluators for new domains; 
+3. a generic feedback system to help students to overcome their difficulties;
 4. a centralized repository of exercises from where they can be exported and imported.
 
 ![JuezLTI Components](JuezLTI_Components.svg)
