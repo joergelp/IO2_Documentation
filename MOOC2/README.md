@@ -17,7 +17,7 @@ All of this will be defined in block 2 through the following sections:
 JuezLTI will be released with an Apache 2.0 license, allowing any institution or developer to expand the functionalities of the tool, adapting it to the particularities of the institution. A specific manual to ease the task of programming is needed. 
 
 This manual will be developed mainly by [INESC TEC](http://www.inesctec.pt/), and will consist of the following sections:
-- The LTI standard
+- [The LTI standard](Development/LTI/README.md)
 - [Architecture of JuezLTI](Development/Architecture/README.md)
 - Module development with TSUGI
 - Introduction to JuezLTI programming
