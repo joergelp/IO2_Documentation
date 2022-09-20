@@ -16,7 +16,7 @@ Block one will consist of the following sections:
 
 - [Introduction to JuezLTI](en/introJuezLTI.md)
 - [Getting credentials for JuezLTI](en/gettingCredentials.md)
-- Using JuezLTI in LMS
+- [Using JuezLTI in LMS](en/usingInMoodle.md)
 - Teacher View
   - Creating an exercise
   - Importing exercises
