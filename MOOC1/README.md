@@ -17,9 +17,9 @@ Block one will consist of the following sections:
 - [Introduction to JuezLTI](en/introJuezLTI.md)
 - [Getting credentials for JuezLTI](en/gettingCredentials.md)
 - [Using JuezLTI in LMS](en/usingInMoodle.md)
-- Teacher View
-  - Creating an exercise
-  - Importing exercises
+- [Teacher View](en/teacherView)
+  - [Creating an exercise](en/teacherView#creating-an-exercise)
+  - [Importing exercises from Authorkit](en/teacherView#importing-exercises-from-authorkit)
 - Student View
   - Programming exercises
   - SQL exercises

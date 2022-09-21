@@ -1,5 +1,7 @@
 # Using JuezLTI in Moodle
 
+![Juez in LMS](../docs/img/juezLTI_UsingCredentialsInLMS.png)
+
 In Moodle 2.2 onwards, the **External tool** enables users to interact with LTI-compliant learning resources and activities on other websites. Then, the **External tool activities** are the right way to use JuezLTI from Moodle.
 
 Next, is a summary of the [External tool](https://docs.moodle.org/400/en/External_tool) documentation in Moodle official site.
