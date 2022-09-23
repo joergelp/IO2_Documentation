@@ -1,3 +1,11 @@
+<p align="right">
+  <a href="README.md">[EN]</a>
+  <a href="README_es.md">[ES]</a>
+  <a href="README_pt.md">[PT]</a>
+  <a href="README_tr.md">[TR]</a>
+  <a href="README_sv.md">[SV]</a>
+</p>
+
 # Teachers manual
 
 Focused on teachers, this section will be, on the one hand, a tutorial on the use of the tool and, on the other, a pedagogical guide for its implementation. 
@@ -7,21 +15,14 @@ Therefore, it will be led by [Karlstad](http://www.kau.se/), given his competenc
 Block one will consist of the following sections:
 
 - [Introduction to JuezLTI](en/introJuezLTI.md)
-- Getting credentials for JuezLTI
-- Using JuezLTI in Moodle / Canvas / Sakai
-- Teacher View
-  - Creating an exercise
-  - Importing exercises
+- [Getting credentials for JuezLTI](en/gettingCredentials.md)
+- [Using JuezLTI in LMS](en/usingInMoodle.md)
+- [Teacher View](en/teacherView)
+  - [Creating an exercise](en/teacherView#creating-an-exercise)
+  - [Importing exercises from Authorkit](en/teacherView#importing-exercises-from-authorkit)
 - Student View
   - Programming exercises
   - SQL exercises
   - XML exercises
 - Reviewing results
 - Backup and restore
-
-## Choice of language
-- [English](README.md)
-- [Spanish](README_es.md)
-- [Portuguese](README_pt.md)
-- [Swedish](README_sv.md)
-- [Turkish](README_tr.md)

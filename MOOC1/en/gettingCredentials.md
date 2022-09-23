@@ -43,13 +43,11 @@ Fill in the form and explain why or where you are going to use the credentials, 
 A new key with state (**Waiting**) has been requested.
 ![Key waiting created](../docs/img/keyWaiting.png)
 
-An email has been sent to JuezLTI staff and as soon as possible, the key request will be approved. At that moment, you will receive an email with the confirmation in your google account.
-
-When you receive the approval confirmation email, you will be able to login again and the approved key will be showed into **LTI Keys** section.
-![Key approved](../docs/img/keyApproved.png)
-
 ## Authorization by JuezLTI admin
 
+An email has been sent to JuezLTI staff and as soon as possible, the key request will be approved. At that moment, you will receive an email with the confirmation in your google account.
 
 ## Key/secret sent
 
+When you receive the approval confirmation email, you will be able to login again and the approved key will be showed into **LTI Keys** section.
+![Key approved](../docs/img/keyApproved.png)

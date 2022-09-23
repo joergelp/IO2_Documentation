@@ -1,3 +1,11 @@
+<p align="right">
+  <a href="README.md">[EN]</a>
+  <a href="README_es.md">[ES]</a>
+  <a href="README_pt.md">[PT]</a>
+  <a href="README_tr.md">[TR]</a>
+  <a href="README_sv.md">[SV]</a>
+</p>
+
 # Manual del docente
 
 Dirigido a los docentes, esta secci&oacute;n ser&aacute; tanto un tutorial para el uso correcto de la herramienta como una gu&iacute;a pedag&oacute;gica para su implementaci&oacute;n en su L.M.S..
@@ -8,7 +16,7 @@ Este bloque tendr&aacute; las siguientes secciones:
 
 - [Introducci&oacute;n a JuezLTI](es/introJuezLTI.md)
 - Obteniendo las credenciales para JuezLTI
-- Usando JuezLTI en Moodle / Canvas / Sakai
+- Usando JuezLTI en LMS
 - Vista del docente
   - Creaci&oacute;n de ejercicios
     - Ejercicios de programación
@@ -19,10 +27,3 @@ Este bloque tendr&aacute; las siguientes secciones:
 - Vista del estudiante
 - Revisión de los resultados
 - Exportar e importar el contexto
-
-## Elecci&oacute;n de idioma
-- [Inglés](README.md)
-- [Español](README_es.md)
-- [Portugues](README_pt.md)
-- [Sueco](README_sv.md)
-- [Turco](README_tr.md)
