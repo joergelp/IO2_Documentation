@@ -1,3 +1,11 @@
+<p align="right">
+  <a href="README.md">[EN]</a>
+  <a href="README_es.md">[ES]</a>
+  <a href="README_pt.md">[PT]</a>
+  <a href="README_tr.md">[TR]</a>
+  <a href="README_sv.md">[SV]</a>
+</p>
+
 # IO2: Documentation and MOOC of JuezLTI
 An open online course is being developed and taught to train teachers on all aspects related to JuezLTI:
 - Foundations of JuezLTI.
@@ -14,10 +22,3 @@ As leaders, the [Karlstad Uni](http://www.kau.se/) will be in charge of the peda
 
 The MOOC will have three differentiated blocks, each of which will be developed by one of the partners, based on their knowledge and participation in the project.
 The language in which the materials will be developed will be English, so all partners will collaborate in the translation tasks into their native language: Swedish, Turkish, [Portuguese](README_pt.md) and [Spanish](README_es.md).
-
-## Choice of language
-- [English](README.md)
-- [Spanish](README_es.md)
-- [Portuguese](README_pt.md)
-- [Swedish](README_sv.md)
-- [Turkish](README_tr.md)

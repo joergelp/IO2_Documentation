@@ -1,3 +1,11 @@
+<p align="right">
+  <a href="README.md">[EN]</a>
+  <a href="README_es.md">[ES]</a>
+  <a href="README_pt.md">[PT]</a>
+  <a href="README_tr.md">[TR]</a>
+  <a href="README_sv.md">[SV]</a>
+</p>
+
 # IO2: Documentaci&oacute;n y MOOC de JuezLTI
 Un curso masivo en l&iacute; est&aacute; siendo desarrollado para ense&ntilde;ar a los docentes todos los aspectos relativos a JuezLTI:
 - Foundamentos de JuezLTI.
@@ -15,10 +23,3 @@ Como lider, la [Universidad de Karlstad](http://www.kau.se/) ser&aacute; la enca
 El MOOC tendrá tres bloques diferenciados, cada uno de los cuales ser&aacute; desarrollado por uno de los socios, basado en sus conocimientos y participación en el proyecto.
 
 Los materiales ser&aacute;n desarrollados en ingl&eacute;s, por lo que todos los socios colaborar&aacute;n en las tareas de traducci&oacute;n a su lengua materna: Sueco, Turco, Portugues y Espa&ntilde;ol.
-
-## Elecci&oacute;n de idioma
-- [Inglés](README.md)
-- [Español](README_es.md)
-- [Portugues](README_pt.md)
-- [Sueco](README_sv.md)
-- [Turco](README_tr.md)

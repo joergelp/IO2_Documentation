@@ -1,3 +1,11 @@
+<p align="right">
+  <a href="../en/README.md">[EN]</a>
+  <a href="../es/README.md">[ES]</a>
+  <a href="../pt/README.md">[PT]</a>
+  <a href="../tr/README.md">[TR]</a>
+  <a href="../sv/README.md">[SV]</a>
+</p>
+
 # JuezLTI architecture
 JuezLTI se compone de diferentes módulos interconectados, cada uno de ellos con un fin muy concreto. En la siguiente imagen podemos ver los diferentes elementos que lo conforman.
 

@@ -1,3 +1,11 @@
+<p align="right">
+  <a href="README.md">[EN]</a>
+  <a href="README_es.md">[ES]</a>
+  <a href="README_pt.md">[PT]</a>
+  <a href="README_tr.md">[TR]</a>
+  <a href="README_sv.md">[SV]</a>
+</p>
+
 # Deployment manual
 The second block will focus on the installation of JuezLTI and its integration in the LMS of the educational institutions. Although the consortium will offer, during the execution of the project, a free platform for its use (JuezLTI-central), JuezLTI is designed to allow the installation on premises, on the servers of any institution that wants to adopt it.
 
@@ -23,10 +31,3 @@ This manual will be developed mainly by [INESC TEC](http://www.inesctec.pt/), an
 - Introduction to JuezLTI programming
 - JuezLTI client development
 - Development of exercises with JuezLTI
-
-## Choice of language
-- [English](README.md)
-- [Spanish](README_es.md)
-- [Portuguese](README_pt.md)
-- [Swedish](README_sv.md)
-- [Turkish](README_tr.md)

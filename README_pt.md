@@ -1,3 +1,11 @@
+<p align="right">
+  <a href="README.md">[EN]</a>
+  <a href="README_es.md">[ES]</a>
+  <a href="README_pt.md">[PT]</a>
+  <a href="README_tr.md">[TR]</a>
+  <a href="README_sv.md">[SV]</a>
+</p>
+
 # IO2: Documentação e MOOC de JuezLTI
 
 Foi desenvolvido um curso online aberto para treinar professores em todos os aspectos relacionados ao JuezLTI:
@@ -22,10 +30,3 @@ O MOOC terá três blocos diferenciados, cada um deles desenvolvido por um dos p
 com base em seu conhecimento e participação no projeto.
 Os materiais serão desenvolvidos em inglês, pelo que todos os parceiros colaborarão nas tarefas de tradução 
 para a sua língua materna: sueco, turco, português e [espanhol](README_es.md).
-
-## Choice of language
-- [English](README.md)
-- [Spanish](README_es.md)
-- [Portuguese](README_pt.md)
-- [Swedish](README_sv.md)
-- [Turkish](README_tr.md)

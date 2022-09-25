@@ -1,3 +1,11 @@
+<p align="right">
+  <a href="README.md">[EN]</a>
+  <a href="README_es.md">[ES]</a>
+  <a href="README_pt.md">[PT]</a>
+  <a href="README_tr.md">[TR]</a>
+  <a href="README_sv.md">[SV]</a>
+</p>
+
 ## Architecture of JuezLTI
 
 The goal of JuezLTI is to provide assessment of exercises in a wide range of languages used in computing within the LMS. 
@@ -26,10 +34,3 @@ It can be installed on the servers of any institution and configured to communic
 It is available on GitHub in two different forms: production and development. 
 The former allows the deployment of the entire system (several docker components) on a production server open to the Internet. 
 With the latter, anyone can build the platform locally and contribute to JuezLTI development.
-
-## Choice of language
-- [English](README.md)
-- [Spanish](README_es.md)
-- [Portuguese](README_pt.md)
-- [Swedish](README_sv.md)
-- [Turkish](README_tr.md)
