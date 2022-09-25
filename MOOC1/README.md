@@ -19,10 +19,10 @@ Block one will consist of the following sections:
 - [Using JuezLTI in LMS](en/usingInMoodle.md)
 - [Teacher View](en/teacherView.md)
   - [Creating an exercise](en/teacherView.md#creating-an-exercise)
+    - [Programming exercises](en/teacherView.md#java-exercise-example)
+    - [SQL exercises](en/teacherView.md#postgresql-exercise-examples)
+    - XML exercises
   - [Importing exercises from Authorkit](en/teacherView.md#importing-exercises-from-authorkit)
-- Student View
-  - Programming exercises
-  - SQL exercises
-  - XML exercises
-- Reviewing results
-- Backup and restore
+- [Student View](en/studentView.md)
+- [Reviewing results](en/reviewingResults.md)
+- [Backup and restore](en/backupRestore.md)

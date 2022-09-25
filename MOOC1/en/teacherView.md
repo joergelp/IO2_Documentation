@@ -55,9 +55,9 @@ public class Main {
 
 - **Add library**: _At the moment it is used only to provide a script with initial data to **test database exercises**_.
 
-Click on **Save Exercise** button and access to Exercises list page. From there, you be able to edit or delete any exercise created with CodeTest.
+Click on **Save Exercise** button and access to Exercises list page. From there, you are able to edit or delete any exercise created with CodeTest.
 
-### PostgreSQL exercise example:
+### PostgreSQL exercise examples:
 
 JuezLTI allows create DQL, DDL and DML exercises. Next is an example of DDL exercise:
 - **Exercise Title**: `ALTER TABLE: RENAME`
@@ -106,10 +106,57 @@ ORDER BY column_name;
     );
     ```
 
-Click on **Save Exercise** button and access to Exercises list page. From there, you be able to edit or delete any exercise created with CodeTest.
+Click on **Save Exercise** button and access to Exercises list page. From there, you are able to edit, delete or reorder the exercises created with CodeTest.
 
 ![Exercises list page](../docs/img/teacherView/exercisesList.png)
+Next is an example of DQL exercise:
+- **Exercise Title**: `Unconditional SELECT`
+- **Keywords**: `DQL, Unconditional`
+- **Exercise statement**: 
+```
+Show all data stored in the table countries.
+```
+- **Code solution**: 
+```
+SELECT * FROM countries
+```
 
+- **Language**: PostgreSQL
+
+- **With these inputs**:
+We don't need any input. Then, a comment it's enough
+```
+-- .
+```
+
+- **Expect these outputs**:
+```
+ country_id | country_name | region_id 
+------------+--------------+-----------
+ ES         | Spain        | 1
+ PT         | Portugal     | 1
+ SE         | Sweden       | 1
+ TR         | Türkiye      | 1
+(4 rows)
+```
+
+- **Add library**: Click on **+** button and fill with these values:
+  - title: `subjects table script`
+  - body:
+    ```
+    CREATE TABLE countries 
+        ( country_id CHAR(2) not null PRIMARY KEY       
+        , country_name VARCHAR(40) 
+        , region_id INTEGER REFERENCES regions(region_id)
+        ); 
+
+    INSERT INTO countries VALUES( 'ES', 'Spain', 1);
+    INSERT INTO countries VALUES( 'PT', 'Portugal', 1);
+    INSERT INTO countries VALUES( 'SE', 'Sweden', 1);
+    INSERT INTO countries VALUES( 'TR', 'Türkiye', 1);
+    ```
+
+Click on **Save Exercise** button.
 ## Importing exercises from Authorkit
 
 JuezLTI team has shared different sets of exercises in [Authorkit](https://python.usz.edu.pl/authorkit/ui/dashboard) to allow instructors using JuezLTI with as little effort as possible:

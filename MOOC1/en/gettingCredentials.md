@@ -9,39 +9,39 @@ The procedure to get the key and secret includes:
   - [Key/secret sent](#keysecret-sent)
 
 These steps are showed in the image below:
-![Getting Credentials](../docs/img/juezLTI_gettingCredentials.jpg)
+![Getting Credentials](../docs/img/gettingCredentials/juezLTI_gettingCredentials.jpg)
 
 ## JuezLTI authentication
 
 JuezLTI use [Tsugi](https://www.tsugi.org) to manage key/secret requests and Tsugi requires authentication with your Google Account. Then, go to the [JuezLTI Tsugi page](https://beta.juezlti.eu/tsugi/) and click on Login as the images below shows:
-![Tsugi login](../docs/img/loginTsugi.png)
-![Select Google account](../docs/img/googleLogin.png)
+![Tsugi login](../docs/img/gettingCredentials/loginTsugi.png)
+![Select Google account](../docs/img/gettingCredentials/googleLogin.png)
 
 The Google account selected will receive the key/secret credentials.
 
 After Google authentication, a profile page will be showed and you will be able to chose your profile settings and Save them clicking on **Save** or **Save Profile Data** button:
-![Select profile settings](../docs/img/profile.png)
+![Select profile settings](../docs/img/gettingCredentials/profile.png)
 
 ## Key/secret request
 
 Once you are authenticated, click on Settings
-![Accessing on Settings](../docs/img/settings.png)
+![Accessing on Settings](../docs/img/gettingCredentials/settings.png)
 
 If this is your first request, you will see a (0) close to **Manage LMS Access Keys** item. Click on **Manage LMS Access Keys**
-![Manage LMS Access Keys](../docs/img/LMS_Access_keys_0.png)
+![Manage LMS Access Keys](../docs/img/gettingCredentials/LMS_Access_keys_0.png)
 LTI Keys button appears selected and the message _"You have no IMS LTI Keys for this system."_ below.
 
 Click on **Key Request** button
-![Click on Key Request button](../docs/img/keyRequestButton.png)
+![Click on Key Request button](../docs/img/gettingCredentials/keyRequestButton.png)
 
 And, then, on **New Key Request**
-![Click on New Key Request button](../docs/img/newKeyRequest.png)
+![Click on New Key Request button](../docs/img/gettingCredentials/newKeyRequest.png)
 
 Fill in the form and explain why or where you are going to use the credentials, please.
-![Fill the form](../docs/img/explainWhy.png)
+![Fill the form](../docs/img/gettingCredentials/explainWhy.png)
 
 A new key with state (**Waiting**) has been requested.
-![Key waiting created](../docs/img/keyWaiting.png)
+![Key waiting created](../docs/img/gettingCredentials/keyWaiting.png)
 
 ## Authorization by JuezLTI admin
 
@@ -50,4 +50,4 @@ An email has been sent to JuezLTI staff and as soon as possible, the key request
 ## Key/secret sent
 
 When you receive the approval confirmation email, you will be able to login again and the approved key will be showed into **LTI Keys** section.
-![Key approved](../docs/img/keyApproved.png)
+![Key approved](../docs/img/gettingCredentials/keyApproved.png)
