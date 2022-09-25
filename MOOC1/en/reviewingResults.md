@@ -2,8 +2,9 @@
 
 Instructors have two places where review the results of students:
 
-- Teacher View in JuezLTI
-- Grades in LMS
+  - [Reviewing results in Teacher View](#reviewing-results-in-teacher-view)
+  - [Reviewing results in Grade LMS](#reviewing-results-in-grade-lms)
+
 
 ## Reviewing results in Teacher View
 
