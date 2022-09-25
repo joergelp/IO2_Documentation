@@ -13,13 +13,13 @@ These steps are showed in the image below:
 
 ## JuezLTI authentication
 
-JuezLTI use [Tsugi](https://www.tsugi.org) to manage key/secret requests and Tsugi requires authentication with your Google Account. Then, go to the [JuezLTI Tsugi page](https://beta.juezlti.eu/tsugi/) and click on Login as the images below shows:
+JuezLTI uses [Tsugi](https://www.tsugi.org) to manage key/secret requests and Tsugi requires authentication with your Google Account. Then, go to the [JuezLTI Tsugi page](https://beta.juezlti.eu/tsugi/) and click on Login as the images below show:
 ![Tsugi login](../docs/img/gettingCredentials/loginTsugi.png)
 ![Select Google account](../docs/img/gettingCredentials/googleLogin.png)
 
 The Google account selected will receive the key/secret credentials.
 
-After Google authentication, a profile page will be showed and you will be able to chose your profile settings and Save them clicking on **Save** or **Save Profile Data** button:
+After Google authentication, a profile page will be showed and you will be able to choose your profile settings and Save them clicking on **Save** or **Save Profile Data** button:
 ![Select profile settings](../docs/img/gettingCredentials/profile.png)
 
 ## Key/secret request

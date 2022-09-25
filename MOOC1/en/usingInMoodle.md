@@ -2,15 +2,15 @@
 
 ![Juez in LMS](../docs/img/gettingCredentials/juezLTI_UsingCredentialsInLMS.png)
 
-In Moodle 2.2 onwards, the **External tool** enables users to interact with LTI-compliant learning resources and activities on other websites. Then, the **External tool activities** are the right way to use JuezLTI from Moodle.
+From Moodle 2.2 onwards, the **External tool** enables users to interact with LTI-compliant learning resources and activities on other websites. Then, the **External tool activities** are the right way to use JuezLTI from Moodle.
 
-Next, is a summary of the [External tool](https://docs.moodle.org/400/en/External_tool) documentation in Moodle official site.
+Next, there is a summary of the [External tool](https://docs.moodle.org/400/en/External_tool) documentation in Moodle official site.
 
 Depending on your privileges in your Moodle institution site, you will be able to configure the LTI tool at activity level or at site administration level
 
 ## Activity level
 
-Once you selected the **external tool activity** ![](../docs/img/externalTool2.png) or ![](../docs/img/externalTool.png) you have to fill in the form:
+Once you have selected the **external tool activity** ![](../docs/img/gettingCredentials/externalTool2.png) or ![](../docs/img/gettingCredentials/externalTool.png) you have to fill in the form:
 
 - **Activity name** -  add a title, description if required, with your choice of display.
 - **Preconfigured tool** - this is how Moodle communicates with the tool provider. If in doubt, leave as default. If your administrator has made a tool available site-wide, you will be able to select it here:![Preconfiguredtool.png](https://docs.moodle.org/400/en/images_en/7/7c/Preconfiguredtool.png)

@@ -2,7 +2,7 @@
 
 ![Teacher View Diagram](../docs/img/teacherView/teacherViewUsageDiagram.png)
 
-Once you have created the **external tool activity** ![](../docs/img/externalTool2.png) or ![](../docs/img/externalTool.png) and you have displayed it, you will see the welcome page:
+Once you have created the **external tool activity** ![](../docs/img/gettingCredentials/externalTool2.png) or ![](../docs/img/gettingCredentials/externalTool.png) and you have displayed it, you will see the welcome page:
 
 ![Get Started Page](../docs/img/teacherView/getStartedPage.png)
 
@@ -20,13 +20,13 @@ At the beginning, every counter is **0**:
 
 As JuezLTI uses [_YAPExIL_](https://raw.githubusercontent.com/FGPE-Erasmus/format-specifications/master/schemas/yapexil.schema.json) format to store all exercise types, the interface to create exercises is the same for programming, databases or markup languages exercises.
 
-Image below shows the form to define exercises:
+The Image below shows the form to define exercises:
 ![Create Exercise Form](../docs/img/teacherView/teacherViewCreateExerciseForm.png)
 
 ## Examples
 Examples below show how to fill the CodeTest form to get a Java or PostgreSQL exercise.
 
-For exercises that needs more YAPExIL properties, JuezLTI recommends [Authorkit](https://python.usz.edu.pl/authorkit/ui/dashboard). 
+For exercises that need more YAPExIL properties, JuezLTI recommends [Authorkit](https://python.usz.edu.pl/authorkit/ui/dashboard). 
 ### Java exercise example:
 - **Exercise Title**: `Welcome`
 - **Keywords**: `Input, Output`
@@ -59,7 +59,7 @@ Click on **Save Exercise** button and access to Exercises list page. From there,
 
 ### PostgreSQL exercise examples:
 
-JuezLTI allows create DQL, DDL and DML exercises. Next is an example of DDL exercise:
+JuezLTI allows to create DQL, DDL and DML exercises. Next there is an example of DDL exercise:
 - **Exercise Title**: `ALTER TABLE: RENAME`
 - **Keywords**: `DDL, RENAME TABLE`
 - **Exercise statement**: 
@@ -124,7 +124,7 @@ SELECT * FROM countries
 - **Language**: PostgreSQL
 
 - **With these inputs**:
-We don't need any input. Then, a comment it's enough
+We don't need any input. Then, a comment is enough
 ```
 -- .
 ```
@@ -176,7 +176,7 @@ JuezLTI suggests starting with groups of exercises that have been already tested
 - MOOC exercises DB: DDL
 - MOOC exercises DB: DML
 
-Click on desired group and then choose the exercise you want to import.
+Click on a desired group and then choose the exercise you want to import.
 ![Exercises groups recommended](../docs/img/teacherView/exercisesGroupsRecommended.png)
 ![Exercise to import selected](../docs/img/teacherView/exerciseSelected.png)
 

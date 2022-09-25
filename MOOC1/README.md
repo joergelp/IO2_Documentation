@@ -10,9 +10,9 @@
 
 Focused on teachers, this section will be, on the one hand, a tutorial on the use of the tool and, on the other, a pedagogical guide for its implementation. 
 
-Therefore, it will be led by [Karlstad](http://www.kau.se/), given his competence in pedagogy and particularly in e-learning. It will also have the collaboration of [CIFP Carlos III](https://cifpcarlos3.es/) and [Bursa MEM](http://bursa.meb.gov.tr/), which are the representative partners of Vocational Training and will allow the manual to be adapted to the curricula of these teachings.
+Therefore, it will be led by [Karlstad](http://www.kau.se/), given his competence in pedagogy and particularly in e-learning. It will also have the collaboration of [CIFP Carlos III](https://cifpcarlos3.es/) and [Bursa MEM](http://bursa.meb.gov.tr/), which are the representative partners of Vocational Training and will allow the manual to be adapted to the curricula of this teaching.
 
-Block one will consist of the following sections:
+Block one will consist on the following sections:
 
 - [Introduction to JuezLTI](en/introJuezLTI.md)
 - [Getting credentials for JuezLTI](en/gettingCredentials.md)
