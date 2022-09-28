@@ -1,3 +1,11 @@
+<p align="right">
+  <a href="README.md">[EN]</a>
+  <a href="README_es.md">[ES]</a>
+  <a href="README_pt.md">[PT]</a>
+  <a href="README_tr.md">[TR]</a>
+  <a href="README_sv.md">[SV]</a>
+</p>
+
 # PEARL 
 
 The **P**rogramming **E**xercise **A**ccessement **R**eport **L**anguage (PEARL) is used to formalize evaluation reports. The three types of request handled by

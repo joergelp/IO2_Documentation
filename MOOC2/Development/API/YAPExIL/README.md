@@ -1,3 +1,11 @@
+<p align="right">
+  <a href="README.md">[EN]</a>
+  <a href="README_es.md">[ES]</a>
+  <a href="README_pt.md">[PT]</a>
+  <a href="README_tr.md">[TR]</a>
+  <a href="README_sv.md">[SV]</a>
+</p>
+
 ## YAPExIL
 
 **Y**et **A**nother **P**rogramming **Ex**ercises **I**nteroperability **L**anguage (YAPExIL) is a language for describing programming exercise packages, partially based in the XML dialect PExIL (**P**rogramming **Ex**ercises **I**nteroperability **L**anguage). In comparison to PExIL, YAPExIL (1) is formalized through a JSON Schema instead of a XML Schema, (2) removes complex logic for automatic test generation while still supporting it through scripts, (3) supports different types of programming exercises and (4) adds support for a number of assets (e.g., instructions for authors, feedback generators, and platform information).
