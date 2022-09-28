@@ -20,4 +20,4 @@ JuezLTI is structured in different modules, as explained in the Architecture. Fo
 
 The communication among these modules is illustrated by the following diagram. Using the **Student View**,  a student submits an attempt to an **Evaluator**. This component assesses this attempt attempt using an exercise retrieved from the **Central Repository** and produces a **report**. This report is submitted to the **Feedback manager** to produces a **feedback** that is returned to the **StudentView** and presented to the student  This communication among these modules is regulated by an internal API.
 
-![Communication among modules](generic-evalutor-architecture.svg)
+![Communication among modules](generic-evaluator-architecture.svg)
