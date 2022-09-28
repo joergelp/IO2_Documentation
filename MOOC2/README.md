@@ -28,6 +28,6 @@ This manual will be developed mainly by [INESC TEC](http://www.inesctec.pt/), an
 - [The LTI standard](Development/LTI/README.md)
 - [Architecture of JuezLTI](Development/Architecture/README.md)
 - Module development with TSUGI
-- Introduction to JuezLTI programming
+- [Internal API](Development/API/README.md)
 - JuezLTI client development
 - Development of exercises with JuezLTI
