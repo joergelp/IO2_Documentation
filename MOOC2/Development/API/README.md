@@ -18,8 +18,13 @@ JuezLTI is structured in different modules, as explained in the [Architecture](.
 
  It should be noted that while most of these participants are singletons, the **Evaluator** is a kind of module with several instances. There is a programming language evaluator, a markup languages evaluator, and database evaluator.
 
-The following diagram illustrates the communication among these modules. Using the **Student View**,  a student submits an attempt to an **Evaluator**. This component assesses this attempt using an exercise retrieved from the **Central Repository** and produces a **report**. The evaluator submits the report to the **Feedback manager** to produce a **feedback** that is returned to the **StudentView** and presented to the student.  This communication among the modules is regulated by an internal [API fornalized in Swagger](https://github.com/JuezLTI/APIs/blob/d981488ba77f238f2aaeb6f862ab1c2a0e8252d9/v2/API.yaml#L16).
+The following diagram illustrates the communication among these modules. Using the **Student View**,  a student submits an attempt to an **Evaluator**. This component assesses this attempt using an exercise retrieved from the **Central Repository** and produces a **report**. The evaluator submits the report to the **Feedback manager** to produce a **feedback** that is returned to the **StudentView** and presented to the student.  
 
 ![Communication among modules](generic-evaluator-architecture.svg)
 
-Most of the data commun
+The communication among modules is regulated by an internal [API formalized in Swagger](https://github.com/JuezLTI/APIs/blob/d981488ba77f238f2aaeb6f862ab1c2a0e8252d9/v2/API.yaml#L16). Most data communicated is unstructured, 
+with the exception of exerecises and reports that use, respectivelly:
+
+- [`YAPExIL`](YAPExIL/README.md) -  a programming exercise format;
+- [`PEARL`](PEARL/README.md) a common format for evaluation reports.
+
